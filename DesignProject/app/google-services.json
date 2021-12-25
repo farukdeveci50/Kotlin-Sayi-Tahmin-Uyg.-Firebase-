@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270374123879",
+    "project_id": "sayitahmintablosu",
+    "storage_bucket": "sayitahmintablosu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270374123879:android:427d13659d3da8330c17c2",
+        "android_client_info": {
+          "package_name": "com.ornek.sayitahminyarismasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270374123879-q5c3aj5l4hfp1iu6758es0cu0okv01lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7l-5UddezFba2W6IIm94UxKxtyeoYQD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270374123879-q5c3aj5l4hfp1iu6758es0cu0okv01lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
